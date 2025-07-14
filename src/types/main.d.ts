@@ -1,3 +1,6 @@
+import DataTable from "../components/DataTable.vue";
+export default DataTable
+
 export type SortType = 'asc' | 'desc'
 
 export type FilterComparison = '=' | '!=' | '>' | '>=' | '<' | '<=' | 'between' | 'in';

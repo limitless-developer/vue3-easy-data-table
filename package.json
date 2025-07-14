@@ -1,5 +1,5 @@
 {
-  "name": "vue3-easy-data-table",
+  "name": "@limitless-developer/vue3-easy-data-table",
   "author": "HC200ok",
   "description": "A customizable and easy-to-use data table component made with Vue.js 3.x.",
   "private": false,
