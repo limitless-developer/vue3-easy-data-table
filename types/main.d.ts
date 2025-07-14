@@ -1,3 +1,6 @@
+import DataTable from "../dist/vue3-easy-data-table.es";
+export default DataTable
+
 export type SortType = 'asc' | 'desc'
 
 export type FilterComparison = '=' | '!=' | '>' | '>=' | '<' | '<=' | 'between'| 'in';
